@@ -2,7 +2,7 @@ mtcli is a command line tool to access the [MeisterTask](http://www.meistertask.
 
 It is licensed under the GPL, version 2.
 
-##Installation
+# Installation
 
 ```
 pip install -r requirements.txt
